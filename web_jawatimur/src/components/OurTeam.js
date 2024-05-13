@@ -29,17 +29,16 @@ function OurTeam() {
                     <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div className="team-item bg-light">
                             <div className="overflow-hidden">
-                                <img className="img-fluid" src="img/team-2.jpg" alt="" />
+                                <img className="img-fluid" src="img/team2.jpeg" alt="" />
                             </div>
                             <div className="position-relative d-flex justify-content-center" style={{ marginTop: '-23px' }}>
                                 <div className="bg-light d-flex justify-content-center pt-2 px-1">
-                                    <a className="btn btn-sm-square btn-primary mx-1" href=""><i className="fab fa-facebook-f"></i></a>
-                                    <a className="btn btn-sm-square btn-primary mx-1" href=""><i className="fab fa-twitter"></i></a>
-                                    <a className="btn btn-sm-square btn-primary mx-1" href=""><i className="fab fa-instagram"></i></a>
+                                    <a className="btn btn-sm-square btn-primary mx-1" href="https://twitter.com/erufumang"><i className="fab fa-twitter"></i></a>
+                                    <a className="btn btn-sm-square btn-primary mx-1" href="https://www.instagram.com/theon.anabel/"><i className="fab fa-instagram"></i></a>
                                 </div>
                             </div>
                             <div className="text-center p-4">
-                                <h5 className="mb-0">Instructor Name</h5>
+                                <h5 className="mb-0">Theon Anabel Deadora</h5>
                                 <small>Designation</small>
                             </div>
                         </div>
@@ -47,7 +46,7 @@ function OurTeam() {
                     <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div className="team-item bg-light">
                             <div className="overflow-hidden">
-                                <img className="img-fluid" src="img/team-2.jpg" alt="" />
+                                <img className="img-fluid" src="img/team3.jpeg" alt="" />
                             </div>
                             <div className="position-relative d-flex justify-content-center" style={{ marginTop: '-23px' }}>
                                 <div className="bg-light d-flex justify-content-center pt-2 px-1">
@@ -57,7 +56,7 @@ function OurTeam() {
                                 </div>
                             </div>
                             <div className="text-center p-4">
-                                <h5 className="mb-0">Instructor Name</h5>
+                                <h5 className="mb-0">Alfin Sanders</h5>
                                 <small>Designation</small>
                             </div>
                         </div>
@@ -65,7 +64,7 @@ function OurTeam() {
                     <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div className="team-item bg-light">
                             <div className="overflow-hidden">
-                                <img className="img-fluid" src="img/team-2.jpg" alt="" />
+                                <img className="img-fluid" src="img/team4.jpeg" alt="" />
                             </div>
                             <div className="position-relative d-flex justify-content-center" style={{ marginTop: '-23px' }}>
                                 <div className="bg-light d-flex justify-content-center pt-2 px-1">
@@ -75,7 +74,7 @@ function OurTeam() {
                                 </div>
                             </div>
                             <div className="text-center p-4">
-                                <h5 className="mb-0">Instructor Name</h5>
+                                <h5 className="mb-0">Juan Farrel</h5>
                                 <small>Designation</small>
                             </div>
                         </div>

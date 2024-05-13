@@ -9,7 +9,7 @@ function Categories() {
                     <h1 className="mb-5">Wisata Alam</h1>
                 </div>
                 {/* isi konten */}
-                <a className="btn btn-primary py-3 px-5 mt-2" href="">Read More</a>
+                {/* <a className="btn btn-primary py-3 px-5 mt-2" href="">Read More</a> */}
             </div>
         </div>
     );

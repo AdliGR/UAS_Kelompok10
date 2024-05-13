@@ -15,17 +15,17 @@ function Team() {
                         <p>Mahasiswa Informatika</p>
                     </div>
                     <div className="testimonial-item text-center">
-                        <img className="border rounded-circle p-2 mx-auto mb-3" src="img/testimonial-2.jpg" style={{ width: '80px', height: '80px' }} alt="" />
+                        <img className="border rounded-circle p-2 mx-auto mb-3" src="img/team2.jpeg" style={{ width: '80px', height: '80px' }} alt="" />
                         <h5 className="mb-0">Theon Anabel Deadora</h5>
                         <p>Mahasiswa Informatika</p>
                     </div>
                     <div className="testimonial-item text-center">
-                        <img className="border rounded-circle p-2 mx-auto mb-3" src="img/testimonial-3.jpg" style={{ width: '80px', height: '80px' }} alt="" />
+                        <img className="border rounded-circle p-2 mx-auto mb-3" src="img/team3.jpeg" style={{ width: '80px', height: '80px' }} alt="" />
                         <h5 className="mb-0">Alfin Sanders</h5>
                         <p>Mahasiswa Informatika</p>
                     </div>
                     <div className="testimonial-item text-center">
-                        <img className="border rounded-circle p-2 mx-auto mb-3" src="img/testimonial-4.jpg" style={{ width: '80px', height: '80px' }} alt="" />
+                        <img className="border rounded-circle p-2 mx-auto mb-3" src="img/team4.jpeg" style={{ width: '80px', height: '80px' }} alt="" />
                         <h5 className="mb-0">Juan Farrel</h5>
                         <p>Mahasiswa Informatika</p>
                     </div>
