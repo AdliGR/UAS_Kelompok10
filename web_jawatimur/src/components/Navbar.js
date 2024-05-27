@@ -4,7 +4,7 @@ function Navbar() {
     return (
         <nav className="navbar navbar-expand-lg bg-white navbar-light shadow sticky-top p-0">
             <a href="/" className="navbar-brand d-flex align-items-center px-4 px-lg-5">
-                <h2 className="m-0 text-primary">Wisata Jawa Timur</h2>
+               <img className='logo' src='img/logo_jatim_transparan.png' />
             </a>
             <button type="button" className="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                 <span className="navbar-toggler-icon"></span>

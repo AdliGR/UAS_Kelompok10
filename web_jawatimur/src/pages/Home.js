@@ -3,9 +3,9 @@ import Navbar from '../components/Navbar';
 import Carousel from '../components/Carousel';
 import General from '../components/General';
 import About from '../components/About';
-import Categories from '../components/Categories';
 import Team from '../components/Team';
 import Footer from '../components/Footer';
+
 
 function Home() {
     return (
@@ -14,7 +14,6 @@ function Home() {
             <Carousel />
             <General />
             <About />
-            <Categories />
             <Team />
             <Footer />
         </div>

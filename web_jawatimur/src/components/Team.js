@@ -10,22 +10,22 @@ function Team() {
                 </div>
                 <div className="owl-carousel testimonial-carousel position-relative">
                     <div className="testimonial-item text-center">
-                        <img className="border rounded-circle p-2 mx-auto mb-3" src="img/team1.jpg" style={{ width: '80px', height: '80px' }} alt="" />
+                        <img className="border rounded-circle p-2 mx-auto mb-3" src="img/team1.jpg" style={{ width: '200px', height: '200px' }} alt="" />
                         <h5 className="mb-0">Sheyhan Rafael Adlinugroho</h5>
                         <p>Mahasiswa Informatika</p>
                     </div>
                     <div className="testimonial-item text-center">
-                        <img className="border rounded-circle p-2 mx-auto mb-3" src="img/team2.jpeg" style={{ width: '80px', height: '80px' }} alt="" />
+                        <img className="border rounded-circle p-2 mx-auto mb-3" src="img/team2.jpeg" style={{ width: '200px', height: '200px' }} alt="" />
                         <h5 className="mb-0">Theon Anabel Deadora</h5>
                         <p>Mahasiswa Informatika</p>
                     </div>
                     <div className="testimonial-item text-center">
-                        <img className="border rounded-circle p-2 mx-auto mb-3" src="img/team3.jpeg" style={{ width: '80px', height: '80px' }} alt="" />
+                        <img className="border rounded-circle p-2 mx-auto mb-3" src="img/team3.jpeg" style={{ width: '200px', height: '200px' }} alt="" />
                         <h5 className="mb-0">Alfin Sanders</h5>
                         <p>Mahasiswa Informatika</p>
                     </div>
                     <div className="testimonial-item text-center">
-                        <img className="border rounded-circle p-2 mx-auto mb-3" src="img/team4.jpeg" style={{ width: '80px', height: '80px' }} alt="" />
+                        <img className="border rounded-circle p-2 mx-auto mb-3" src="img/team4.jpeg" style={{ width: '200px', height: '200px' }} alt="" />
                         <h5 className="mb-0">Juan Farrel</h5>
                         <p>Mahasiswa Informatika</p>
                     </div>

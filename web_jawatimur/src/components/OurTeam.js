@@ -22,7 +22,7 @@ function OurTeam() {
                             </div>
                             <div className="text-center p-4">
                                 <h5 className="mb-0">Shyehan Rafael Adlinugroho</h5>
-                                <small>Design & Fullstack</small>
+                                <small>Design & FrontEnd</small>
                             </div>
                         </div>
                     </div>
@@ -39,7 +39,7 @@ function OurTeam() {
                             </div>
                             <div className="text-center p-4">
                                 <h5 className="mb-0">Theon Anabel Deadora</h5>
-                                <small>Designation</small>
+                                <small>FrontEnd</small>
                             </div>
                         </div>
                     </div>
@@ -57,7 +57,7 @@ function OurTeam() {
                             </div>
                             <div className="text-center p-4">
                                 <h5 className="mb-0">Alfin Sanders</h5>
-                                <small>Designation</small>
+                                <small>Design</small>
                             </div>
                         </div>
                     </div>
@@ -75,7 +75,7 @@ function OurTeam() {
                             </div>
                             <div className="text-center p-4">
                                 <h5 className="mb-0">Juan Farrel</h5>
-                                <small>Designation</small>
+                                <small>FrontEnd</small>
                             </div>
                         </div>
                     </div>
